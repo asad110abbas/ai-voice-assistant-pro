@@ -130,7 +130,6 @@ tests/                    pytest suite
 
 | Target | How |
 |---|---|
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Vercel** | Deployed to Vercel for cloud access |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker Compose** | `docker compose up --build` runs the FastAPI voice backend and the React dashboard as containers |
 
 ## License
