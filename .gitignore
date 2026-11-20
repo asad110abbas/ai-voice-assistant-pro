@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+pip-debug.log
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+app.log
+
+# Database & vector store binaries
+*.bin
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+config/faq_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Audio session files
+sessions/
+
+# Temp files
+*.tmp
+*.temp
+
+# Runtime data written by the app
+escalations.json
+blocklist.json
+abuse_log.json
