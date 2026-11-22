@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ Briha AI Voice Assistant
+# 🎙️ AI Voice Assistant
 
 **A bilingual (English / Urdu / Roman Urdu) AI voice agent for e-commerce customer support, with RAG-powered answers, live tool calls, automatic human escalation and a full agent dashboard.**
 
@@ -78,8 +78,8 @@ flowchart LR
 ## Quick start
 
 ```bash
-git clone https://github.com/asad110abbas/briha-ai-voice-assistant.git
-cd briha-ai-voice-assistant
+git clone https://github.com/asad110abbas/ai-voice-assistant-pro.git
+cd ai-voice-assistant-pro
 cp .env.example .env      # add GEMINI_API_KEY, JWT_SECRET, ADMIN_PASSWORD, AGENT_PASSWORD
 docker compose up --build
 ```

@@ -37,7 +37,7 @@ SYSTEM_PROMPT = os.getenv(
 )
 
 GREETING_TEXT = (
-    "Assalamoalaikum! I am Briha AI Voice Assistant. "
+    "Assalamoalaikum! I am the AI Voice Assistant. "
     "Aap mujhse products ki price, orders, ya koi bhi query pooch sakte hain. "
     "If you would like to speak to a human agent, just say: transfer to agent. "
     "Agar aap hamare agent se baat karna chahte hain, toh bas bolein: agent ko transfer karo."
